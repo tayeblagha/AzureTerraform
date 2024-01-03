@@ -1,0 +1,10 @@
+# enable rdp on linux ubuntu Alan Rodrigues
+
+sudo apt update
+sudo apt upgrade
+sudo app-get install xfce4
+sudo app install xfce4
+sudo apt-get install xfce4
+sudo apt-get install xrdp
+echo xfce4-session > ~/.xsession
+sudo service xrdp restart
