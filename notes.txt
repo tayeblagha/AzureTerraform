@@ -1,4 +1,4 @@
-# enable rdp on linux ubuntu Alan Rodrigues
+# enable rdp on linux ubuntu 
 
 sudo apt update
 sudo apt upgrade
